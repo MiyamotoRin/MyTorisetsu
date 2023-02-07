@@ -2,11 +2,11 @@
 This is a wiki-style portfolio to which a third party can also add.
 
 ----------------------
-# Shon Nakamura　中村翔音
+# Rin Miyamoto 宮本凜
 <img width="100%" alt="mainvisual" src="assets/mainvisual.jpg">
 
 # Profile
-2001年長野県飯山市出身。  
+2000年香川県木田郡牟礼町（現高松市）出身。  
 筑波大学 情報メディア創成学類所属。  
 
 
@@ -28,44 +28,3 @@ This is a wiki-style portfolio to which a third party can also add.
 
 
 # Production
-## 2022
-- ### [スズムシンセサイザー](https://www.instagram.com/reel/CkwgpgDD7EY/?utm_source=ig_web_copy_link)
-  任意の秋の音色を作ることができる音が鳴るテラリウム
-  <br>
-  <img width="70%" alt="mainvisual" src="assets/suzumushi.jpg">
-
-- ### [FaceGraph](https://github.com/MiyamotoRin/FaceGraph-Flask)
-  変顔で多次元のデータの特徴を表すデータ可視化Webアプリケーション。人間の感性を利用した可視化手法。
-- ### Twitter感情分析
-  筑波大という感情の大きな波が存在してそれを捉えられるのでは？と思って作ってみた
-  <br>
-  <img width="70%" alt="mainvisual" src="assets/emotion.png">
-- ### 無量空処
-  指を重ねるとジェスチャーを認識し，PCをフリーズさせる呪術を修得した
-  <br>
-  <img width="70%" alt="mainvisual" src="assets/ｍuryokusyo.jpg">
-  
-
-## 2021
-- ### 授業レビューサイト
-  授業アンケートを答えても改善されない授業の透明性のあげる策として作った。この世から地雷授業は無くなればいい。取りたい授業を安心して取りに行けるのが本当の学際性だと思う。
-  <br>
-  <img width="70%" alt="mainvisual" src="assets/review.png">
-
-- ### まめぽっとのプロモーション動画制作
-  近所のコーヒー豆屋さんのプロモーション動画を授業の一環で制作した。
-  <br>
-  <img width="70%" alt="mainvisual" src="assets/mamepot.jpg">
-
-## 2020
-- ### [課題研究をする高校生のための先行研究を集めたポータルサイト](https://shaunnnaka.github.io/tipschest/)
-
-# Random
-- なんか
-
-
-
-# Cf
-
-- [Udemy学生モニターをしたときに記事にしてもらったやつ①](https://udemy.benesse.co.jp/career/user_story/ufu2022-nakamura.html)
-- [Udemy学生モニターをしたときに記事にしてもらったやつ②](https://udemy.benesse.co.jp/career/user_story/ufu2022-nakamura.html)
